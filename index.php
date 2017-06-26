@@ -25,51 +25,36 @@
                 <div class="panel-heading">Atenção:</div>
                 <div class="panel-body">
                     <p>
-                        As janelas de entrada não mostram nenhum cursor, assim as 
-                        seleções precisam ser feitas com o mouse, ao clicar com o 
-                        botão esquerdo do mouse no início, mantendo o botão do mouse 
-                        pressionado e indo até ao fim, momento em que solta o botão 
-                        do mouse de novo. Você poderá também selecionar uma palavra 
-                        se fizer duplo-clique nela. No editor do resultado da mesclagem 
-                        poderá também selecionar com o teclado se mantiver a tecla 
-                        Shift pressionada enquanto navega com as teclas de cursores.
+                        A finalidade deste site é unicamente organizar o atendimento
+                        à prescritores para obtenção de numeração para talonários
+                        de receituário especial.
                     </p>
                     <p>
-                        Se a seleção ultrapassar o intervalo visível, você poderá 
-                        passar o mouse por cima das bordas da janela, o que fará 
-                        com que o KDiff3 se desloque nessa direção.
+                        As informações solicitadas são exclusivamente para contato
+                        em caso cancelamento de agendamento.
                     </p>
                     <p>
-                        Para as seleções muito grandes, você poderá também usar as 
-                        teclas de navegação, enquanto mantém pressionado o mouse. 
-                        P. ex., use o Page Up e o Page Down para ir rapidamente para 
-                        uma dada posição. Na posição final, solte o botão do mouse.
+                        Não nos responsabilizamos por alguma eventualidade em que
+                        não ocorra tempo hábil para aviso sobre reagendamento, que
+                        deverá ser feito diretamente neste site pelo próprio munícipe.
                     </p>
                     <p>
-                        Para selecionar tudo na janela atual, use a opção do menu 
-                        "Editar"->"Selecionar Tudo" (Ctrl-A).
+                        A informação sobre o número do guichê não diz respeito ao
+                        balcão a ser atendido na praça de atendimento.
                     </p>
                     <p>
-                        Para copiar para a área de transferência, você precisa pressionar 
-                        o botão "Copiar" (Ctrl-C ou Ctrl-Insert). Porém, existe uma 
-                        opção para "Copiar Automaticamente a Seleção". Se esta estiver 
-                        ativa, então tudo o que selecionar será copiado imediatamente, 
-                        sem que você tenha de copiar explicitamente. Todavia, preste 
-                        atenção ao usar isto, uma vez que o conteúdo da área de transferência 
-                        poderá ser destruído por acidente.
+                        É necessário que haja bom senso na hora do agendamento. Não
+                        serão considerados agendamentos duplicados.
                     </p>
                     <p>
-                        O "Cortar" (Ctrl-X ou Shift-Delete) copia para a área de 
-                        transferência e apaga o texto selecionado.
+                        É absolutamente importante que o prescritor siga as orientações
+                        sobre a documentação a ser entregue para agilizar o atendimento
+                        na praça de atendimento.
                     </p>
                     <p>
-                        O "Colar" (Ctrl-V ou Shift-Insert) insere o texto da área 
-                        de transferência na posição do cursor ou na seleção atual. 
-                        Se colar numa das janelas de entrada de diferenças, o conteúdo 
-                        da área de transferência será mostrado nessa janela e a 
-                        comparação irá reiniciar imediatamente. Isto é útil se quiser 
-                        pegar rapidamente num pedaço de texto de qualquer local e 
-                        compará-lo com outra coisa, sem ter que criar arquivos primeiro.
+                    	Qualquer dúvida sobre este agendamento poderá ser dirimida
+                    	pelo telefone 11 3397.8340 ou pelo e-mail 
+                    	<a href="mailto:servsaude@prefeitura.sp.gov.br">servsaude@prefeitura.sp.gov.br</a>
                     </p>
                 </div>
                 <div class="panel-footer">
